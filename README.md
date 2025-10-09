@@ -56,7 +56,10 @@ Format: datetime format
 1. It began with Data collection and preparation, where Seattle and Tampa precipitation datasets were brought into pandas, their structure explored using the head(), info(), and describe() functions, and the date column converted to datetime format to extract month and day_of_year to facilitate analysis.
 2. In the process of Data cleaning, values for missing precipitation were imputed using monthly averages, and a new binary column any_precipitation was created to verify if it had rained on a given day, month. 
 3. The exploratory data analysis (EDA) was focused on viewing rainfall patterns by plotting daily trend plots, monthly histograms, boxplots, and barplots of average precipitation between seattle and tampa cities. 
-4.To statistically compare the differences, two-sample t-tests were used to compare mean precipitation and two-proportion z-tests for testing differences in rainy days' numbers, determining months with statistically significant results. Finally, a range of visualizations like line plots, histograms, boxplots, and barplots were implemented to efficiently represent rainfall distributions and highlight major differences between the two cities. These were all performed on the notebook DS5100_sravya.ipynb, a jupyter notebook by using the cleaned data clean_seattle_tampa_weather.csv.
+4.To statistically compare the differences, two-sample t-tests were used to compare mean precipitation and two-proportion z-tests for testing differences in rainy days' numbers, determining months with statistically significant results. Finally, a range of visualizations like line plots, histograms, boxplots, and barplots were implemented to efficiently represent rainfall distributions and highlight major differences between the two cities. These were all performed on the notebook Seattle&tampa_weather_project.ipynb, a jupyter notebook by using the cleaned data clean_seattle_tampa_weather.csv.
+
+Jupyter notebook (.ipynb) file- Seattle&tampa_weather_project.ipynb
+Clean file- clean_seattle_tampa_weather.csv
 
 ---
 
