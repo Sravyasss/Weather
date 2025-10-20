@@ -1,4 +1,4 @@
-# Project Title (This is a template README.md file that you can adapt to your project)
+# Seattle Weather Project
 
 > The purpose of this project is to compare the rainfall in seattle and tampa for 2018-2022. Through this analysis between seattle and tampa dataframes, we explore how often and how much it rains in both seattle and tampa city and identify the significant differences.
 
